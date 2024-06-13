@@ -1,1 +1,1 @@
-# WasabiWalletWebSite
+# Hydra Wallet website
